@@ -2,6 +2,7 @@
 # Qiime2: Merging several DADA2 denoised run feature tables and representative sequences for Qiime version 2017.12
 # Feature tables must be name *_table.qza and representative sequences *_rep-seqs.qza
 # V1.00 Written by Gisle Vestergaard
+# Edited by Alex Paterson 2020
 
 require 'pp'
 require 'optparse'
